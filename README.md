@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hello there, I'm Soham
 
-<!--
-**sohamw03/sohamw03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Introduction
 
-Here are some ideas to get you started:
+Hello! I'm Soham Waghmare, a Full Stack Web Dev and ML enthusiast. Welcome to my GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+Here are some of the technologies and tools I work with:
+
+- Programming Languages: Python, Javascript, TS, HTML, CSS, C++, C, Bash Script, Java
+- Frontend: React, NextJS, Bootstrap, Tailwind
+- Backend: Django, ExpressJS (NodeJS)
+- Databases: MongoDB, MySQL, Postgresql
+- DevOps: Linux, Git, Docker
+- Other: Blender (3D Animation), Photoshop, Premiere Pro (Video Editing)
+
+## 🌱 Currently Learning
+
+I'm always eager to learn new things. Currently, I'm focusing on:
+
+- ML Basics
+- NextJS
+
+## 📫 Contact
+
+You can reach me via email at sohamwaghmare2021@gmail.com. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/soham-waghmare) as well.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamw03&show_icons=true)
+
+## 🌐 Find Me Online
+
+- [Website](sohamw03.github.io)
+- [LinkedIn](https://www.linkedin.com/in/soham-waghmare/)
+- [Youtube](https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06)
+
+Thanks for visiting my GitHub profile!
