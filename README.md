@@ -26,6 +26,9 @@ I'm always eager to learn new things. Currently, I'm focusing on:
 
 You can reach me via email at sohamwaghmare2021@gmail.com. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/soham-waghmare) as well.
 
+## Holopin Badges
+[![An image of @sohamw03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohamw03)](https://holopin.io/@sohamw03)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamw03&show_icons=true)
