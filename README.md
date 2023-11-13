@@ -36,7 +36,7 @@ You can reach me via email at sohamwaghmare2021@gmail.com. Feel free to connect 
 
 ## 🌐 Find Me Online
 
-- [Website](sohamw03.github.io)
+- [Website](https://sohamw03.github.io)
 - [LinkedIn](https://www.linkedin.com/in/soham-waghmare/)
 - [Youtube](https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06)
 
