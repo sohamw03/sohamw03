@@ -9,10 +9,10 @@ Hello! I'm Soham Waghmare, a Full Stack Web Dev and ML enthusiast. Welcome to my
 Here are some of the technologies and tools I work with:
 
 - Programming Languages: Python, Javascript, TS, HTML, CSS, C++, C, Bash Script, Java
-- Frontend: React, NextJS, Bootstrap, Tailwind
+- Frontend: React, NextJS, shadcn/ui, MUI, Bootstrap, Tailwind
 - Backend: Django, ExpressJS (NodeJS)
 - Databases: MongoDB, MySQL, Postgresql
-- DevOps: Linux, Git, Docker
+- DevOps: Linux, Git, Docker, Terraform, Ansible, Jenkins
 - Other: Blender (3D Animation), Photoshop, Premiere Pro (Video Editing)
 
 ## 🌱 Currently Learning
