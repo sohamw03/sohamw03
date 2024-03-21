@@ -19,7 +19,7 @@ Here are some of the technologies and tools I work with:
 
 I'm always eager to learn new things. Currently, I'm focusing on:
 
-- ML Basics
+- ML Ops
 - NextJS
 
 ## 📫 Contact
