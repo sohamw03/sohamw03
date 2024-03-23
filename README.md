@@ -33,7 +33,7 @@ You can reach me via email at sohamwaghmare2021@gmail.com. Feel free to connect 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamw03&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=1000)
 ![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamw03&theme=dark&show_icons=true&hide_border=true&card_width=1000)
-<a href="https://10fastfingers.com/typing-test/english"><img src="http://img.10fastfingers.com/badge/typing-test_1_CA.png" alt="Typing Test" /></a><p>Visit the <a href="https://10fastfingers.com/typing-test/english">Typing Test</a> and try!</p>
+<a href="https://10fastfingers.com/typing-test/english"><img src="http://img.10fastfingers.com/badge/typing-test_1_CD.png" alt="Typing Test" /></a><p>Visit the <a href="https://10fastfingers.com/typing-test/english">Typing Test</a> and try!</p>
 
 ## 🌐 Find Me Online
 
