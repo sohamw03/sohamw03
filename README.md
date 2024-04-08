@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-Hello! I'm Soham Waghmare, a Full Stack Web Dev and ML enthusiast. Welcome to my GitHub profile.
+Greetings! I'm Soham Waghmare, passionate about exploring the realms of AI and machine learning. Delighted to have you visit my GitHub profile.
 
 ## 🔧 Technologies & Tools
 
