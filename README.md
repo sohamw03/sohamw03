@@ -2,24 +2,24 @@
 
 ## 👋 Introduction
 
-Greetings! I'm Soham Waghmare, passionate about exploring the realms of AI and machine learning. Delighted to have you visit my GitHub profile.
+Greetings! I'm Soham Waghmare, passionate about exploring the realms of AI and machine learning.
 
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: Python, Javascript, TS, HTML, CSS, C++, C, Bash Script, Java
-- Frontend: React, NextJS, shadcn/ui, MUI, Bootstrap, Tailwind
-- Backend: Django, ExpressJS (NodeJS)
+- Programming Languages: Python, HTML, CSS, JS / TS, C++, C, Bash Script, Java
+- Frontend: React, NextJS, shadcn/ui, MUI, Tailwind
+- Backend: Django, ExpressJS (NodeJS), Flask
 - Databases: MongoDB, MySQL, Postgresql
-- DevOps: Linux, Git, Docker, Terraform, Ansible, Jenkins
+- DevOps: Linux, Git, Docker, Terraform, Ansible, Jenkins, Github Actions
 - Other: Blender (3D Animation), Photoshop, Premiere Pro (Video Editing)
 
 ## 🌱 Currently Learning
 
-I'm always eager to learn new things. Currently, I'm focusing on:
+I'm always eager to learn new things. Currently focused in . . .
 
-- ML Ops
+- LLMs | ML | DL | NLP
 - NextJS
 
 ## 📫 Contact
@@ -47,5 +47,6 @@ You can reach me via email at sohamwaghmare2021@gmail.com. Feel free to connect 
 - [Website](https://sohamw03.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/soham-waghmare/)
 - [Youtube](https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06)
+- [Twitter](https://twitter.com/_SohamWaghmare_)
 
-Thanks for visiting my GitHub profile!
+Thanks for checking me out. Do check out the important repos below.
