@@ -13,13 +13,15 @@ Here are some of the technologies and tools I work with:
 - Backend: Django, ExpressJS (NodeJS), Flask
 - Databases: MongoDB, MySQL, Postgresql
 - DevOps: Linux, Git, Docker, Terraform, Ansible, Jenkins, Github Actions
+- Collaboration: Jira, Notion, Slack, Discord, GitHub
+- Tools: NeoVim, VSCode (Vim Ext), GColab
 - Other: Blender (3D Animation), Photoshop, Premiere Pro (Video Editing)
 
 ## 🌱 Currently Learning
 
 I'm always eager to learn new things. Currently focused in . . .
 
-- LLMs | ML | DL | NLP
+- LLMs | RAG | ML | DL | NLP
 - NextJS
 
 ## 📫 Contact
