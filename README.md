@@ -22,6 +22,7 @@ Here are some of the technologies and tools I work with:
 I'm always eager to learn new things. Currently focused in . . .
 
 - LLMs | RAG | ML | DL | NLP
+- WebRTC | WebSockets
 - NextJS
 
 ## 📫 Contact
