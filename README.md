@@ -2,7 +2,7 @@
 
 ## 👋 Introduction
 
-Greetings! I'm Soham Waghmare, passionate about exploring the realms of AI and machine learning.
+Greetings! I'm Soham Waghmare, passionate about exploring the realms of AI and deep learning.
 
 ## 🔧 Technologies & Tools
 
