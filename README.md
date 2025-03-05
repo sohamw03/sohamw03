@@ -4,6 +4,37 @@
 
 Greetings! I'm Soham Waghmare, passionate about exploring the realms of AI and deep learning.
 
+## 📖 Projects
+<table>
+  <tbody>
+  <tr>
+    <td>
+      <a href="https://github.com/sohamw03/GramLearn"><strong>GramLearn</strong></a> <code>Local RAG based LLM Pipeline for Grammar teaching</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/Neurexa/Sanjeevani"><strong>Sanjeevani</strong></a> <code>Medicinal Plant Identification with Image Processing and Deep Learning</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/sohamw03/face-detect-recog"><strong>FaceAuth</strong></a> <code>Multi-factor face authentication</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/sohamw03/function-calling-flights"><strong>FlightAgent</strong></a> <code>Chatbot that facilitates flight searches and bookings</code>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/sohamw03/geminimeeting"><strong>GeminiMeetings</strong></a> <code>Seamless collaboration for devs and productive teams (WebRTC)</code>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
