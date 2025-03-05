@@ -74,13 +74,26 @@ You can reach me via email at sohamwaghmare2021@gmail.com. Feel free to connect 
 ## Holopin Badges
 [![An image of @sohamw03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohamw03)](https://holopin.io/@sohamw03)
 
-<a href="https://10fastfingers.com/typing-test/english"><img src="http://img.10fastfingers.com/badge/typing-test_1_CJ.png" alt="Typing Test" /></a><p>Visit the <a href="https://10fastfingers.com/typing-test/english">Typing Test</a> and try!</p>
+<a href="https://10fastfingers.com/typing-test/english"><img src="http://img.10fastfingers.com/badge/typing-test_1_CL.png" alt="Typing Test" /></a>
 
 ## 🌐 Find Me Online
-
-- [Website](https://sohamw03.github.io/)
-- [LinkedIn](https://www.linkedin.com/in/soham-waghmare/)
-- [Youtube](https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06)
-- [Twitter](https://twitter.com/_SohamWaghmare_)
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://sohamw03.github.io/">Website 🌐</a>
+      </td>
+      <td>
+        <a href="https://www.linkedin.com/in/soham-waghmare/">LinkedIn 💼</a>
+      </td>
+      <td>
+        <a href="https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06">YouTube ▶️</a>
+      </td>
+      <td>
+        <a href="https://twitter.com/_SohamWaghmare_">Twitter 🐦</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 Thanks for checking me out. Do check out the important repos below.
