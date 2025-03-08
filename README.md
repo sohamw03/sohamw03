@@ -1,8 +1,6 @@
-# Hello there, I'm Soham
 
-## 👋 Introduction
-
-Greetings! I'm Soham Waghmare, passionate about exploring the realms of AI and deep learning.
+# Greetings! I'm Soham, here's everything you need to know about me...
+I use [<b>`Neovim`</b>](https://github.com/sohamw03/neovim) BTW
 
 ## 📖 Projects
 <table>
@@ -39,14 +37,14 @@ Greetings! I'm Soham Waghmare, passionate about exploring the realms of AI and d
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: Python, HTML, CSS, JS / TS, C++, C, Bash Script, Java
-- Frontend: React, NextJS, shadcn/ui, MUI, Tailwind
-- Backend: Django, ExpressJS (NodeJS), Flask
-- Databases: MongoDB, MySQL, Postgresql
+- Programming Languages: Python, JS/TS, HTML, CSS, C++, C, Bash, Java
+- Frontend: React, NextJS, shadcn/ui, MUI, Tailwind, NextUI
+- Backend: Django, ExpressJS (NodeJS), Flask, FastAPI
+- Databases: MongoDB, MySQL, Postgresql, SQLite3
 - DevOps: Linux, Git, Docker, Terraform, Ansible, Jenkins, Github Actions
 - Collaboration: Jira, Notion, Slack, Discord, GitHub
-- Tools: NeoVim, VSCode (Vim Ext), GColab
-- Other: Blender (3D Animation), Photoshop, Premiere Pro (Video Editing)
+- Editors: NeoVim, Zed, GColab
+- Other: Blender (3D Animation), Photoshop, Premiere Pro (Video Editing), OBS
 
 ## 🌱 Currently Learning
 
