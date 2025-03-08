@@ -37,14 +37,14 @@ I use [<b>`Neovim`</b>](https://github.com/sohamw03/neovim) BTW
 
 Here are some of the technologies and tools I work with:
 
-- Programming Languages: Python, JS/TS, HTML, CSS, C++, C, Bash, Java
-- Frontend: React, NextJS, shadcn/ui, MUI, Tailwind, NextUI
-- Backend: Django, ExpressJS (NodeJS), Flask, FastAPI
-- Databases: MongoDB, MySQL, Postgresql, SQLite3
-- DevOps: Linux, Git, Docker, Terraform, Ansible, Jenkins, Github Actions
-- Collaboration: Jira, Notion, Slack, Discord, GitHub
-- Editors: NeoVim, Zed, GColab
-- Other: Blender (3D Animation), Photoshop, Premiere Pro (Video Editing), OBS
+- **Programming Languages**: Python, JS/TS, HTML, CSS, C++, C, Bash, Java
+- **Frontend**: React, NextJS, shadcn/ui, MUI, Tailwind, NextUI
+- **Backend**: Django, ExpressJS (NodeJS), Flask, FastAPI
+- **Databases**: MongoDB, MySQL, Postgresql, SQLite3
+- **DevOps**: Linux, Git, Docker, Terraform, Ansible, Jenkins, Github Actions
+- **Collaboration**: Jira, Notion, Slack, Discord, GitHub
+- **Editors**: NeoVim, Zed, GColab
+- **Other**: Blender (3D Animation), Photoshop, Premiere Pro (Video Editing), OBS
 
 ## 🌱 Currently Learning
 
@@ -79,16 +79,16 @@ You can reach me via email at sohamwaghmare2021@gmail.com. Feel free to connect 
   <tbody>
     <tr>
       <td>
-        <a href="https://sohamw03.github.io/">Website 🌐</a>
+        <a href="https://sohamw03.github.io/"><b>Website</b> 🌐</a>
       </td>
       <td>
-        <a href="https://www.linkedin.com/in/soham-waghmare/">LinkedIn 💼</a>
+        <a href="https://www.linkedin.com/in/soham-waghmare/"><b>LinkedIn</b> 💼</a>
       </td>
       <td>
-        <a href="https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06">YouTube ▶️</a>
+        <a href="https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06"><b>YouTube</b> ▶️</a>
       </td>
       <td>
-        <a href="https://twitter.com/_SohamWaghmare_">Twitter 🐦</a>
+        <a href="https://twitter.com/_SohamWaghmare_"><b>Twitter</b> 🐦</a>
       </td>
     </tr>
   </tbody>
