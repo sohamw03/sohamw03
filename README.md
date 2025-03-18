@@ -69,8 +69,6 @@ You can reach me via email at sohamwaghmare2021@gmail.com. Feel free to connect 
 ## Holopin Badges
 [![An image of @sohamw03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohamw03)](https://holopin.io/@sohamw03)
 
-<a href="https://10fastfingers.com/typing-test/english"><img src="http://img.10fastfingers.com/badge/typing-test_1_CL.png" alt="Typing Test" /></a>
-
 ## 🌐 Find Me Online
 <table>
   <tbody>
