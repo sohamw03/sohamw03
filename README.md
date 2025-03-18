@@ -36,23 +36,20 @@ I use [<b>`Neovim`</b>](https://github.com/sohamw03/neovim) BTW
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
-
-- **Programming Languages**: Python, JS/TS, HTML, CSS, C++, C, Bash, Java
-- **Frontend**: React, NextJS, shadcn/ui, MUI, Tailwind, NextUI
-- **Backend**: Django, ExpressJS (NodeJS), Flask, FastAPI
-- **Databases**: MongoDB, MySQL, Postgresql, SQLite3
+- **AI**: Transformers, Langchain, Ollama, Whisper, OpenCV, PyTorch, CNN
+- **Programming Languages**: Python, JS/TS, C++, Bash
+- **Backend**: Flask, FastAPI, SocketIO, WebRTC
+- **Databases**: MongoDB, MySQL, Postgres, SQLite3
+- **Cloud**: AWS, GCP, Azure, Vercel, Render, Firebase
 - **DevOps**: Linux, Git, Docker, Terraform, Ansible, Jenkins, Github Actions
-- **Collaboration**: Jira, Notion, Slack, Discord, GitHub
-- **Editors**: NeoVim, Zed, GColab
-- **Other**: Blender (3D Animation), Photoshop, Premiere Pro (Video Editing), OBS
+- **Collaboration**: GitHub, Slack, Discord
+- **Editors**: NeoVim, Zed, GColab, Jupyter
 
 ## 🌱 Currently Learning
 
-I'm always eager to learn new things. Currently focused in . . .
+I'm always eager to learn new things. Currently exploring . . .
 
-- LLMs | RAG | ML | DL | NLP
-- WebRTC | WebSockets
-- NextJS
+- **Agentic AI** | **Deep Learning**
 
 ## 📫 Contact
 
