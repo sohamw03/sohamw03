@@ -2,6 +2,9 @@
 # Greetings! I'm Soham, here's everything you need to know about me...
 I use [<b>`Neovim`</b>](https://github.com/sohamw03/neovim) BTW
 
+## Open Source Contributions
+- **[docling-project/docling-core](https://github.com/docling-project/docling-core)**: Contributed to [[bugfix](https://github.com/docling-project/docling-core/pull/210)], enhancing AI document conversion from csv to md.
+
 ## 📖 Projects
 <table>
   <tbody>
