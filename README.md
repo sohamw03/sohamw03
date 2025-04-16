@@ -10,27 +10,36 @@ I use [<b>`Neovim`</b>](https://github.com/sohamw03/neovim) BTW
   <tbody>
   <tr>
     <td>
-      <a href="https://github.com/sohamw03/GramLearn"><strong>GramLearn</strong></a> <code>Local RAG based LLM Pipeline for Grammar teaching</code>
+      <a href="https://github.com/sohamw03/knowledge_net" target="_blank"><strong>K-NET</strong></a> <code>Multimodal Multiagent Deep Research</code> 
+      <a href="https://knowledge-net.vercel.app" target="_blank">WS Live</a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/Neurexa/Sanjeevani"><strong>Sanjeevani</strong></a> <code>Medicinal Plant Identification with Image Processing and Deep Learning</code>
+      <a href="https://github.com/sohamw03/v2v-textbook-rag-llm" target="_blank"><strong>V2V-Textbook-RAG</strong></a> <code>Local V2V LLM RAG chatbot for learning in schools</code>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/sohamw03/face-detect-recog"><strong>FaceAuth</strong></a> <code>Multi-factor face authentication</code>
+    <a href="https://github.com/Neurexa/Sanjeevani" target="_blank"><strong>Sanjeevani</strong></a> <code>Medicinal Plants VGG16 Classification</code>
+      <a href="https://sanjeevani-blush.vercel.app" target="_blank">Live</a>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/sohamw03/function-calling-flights"><strong>FlightAgent</strong></a> <code>Chatbot that facilitates flight searches and bookings</code>
+    <a href="https://github.com/sohamw03/face-detect-recog" target="_blank"><strong>FaceAuth</strong></a> <code>Face Auth using dlib, facenet, mediapipe</code>
     </td>
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/sohamw03/geminimeeting"><strong>GeminiMeetings</strong></a> <code>Seamless collaboration for devs and productive teams (WebRTC)</code>
+    <a href="https://github.com/sohamw03/function-calling-flights" target="_blank"><strong>FlightAgent</strong></a> <code>Chatbot that facilitates flight searches and bookings</code>
+    <a href="https://mf2b7odna5.ufs.sh/f/1bDUZFytIqU3WLrWvpomyKG0erIXHpogBUw4C32dSAa76vcu" target="_blank">Vid</a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+    <a href="https://github.com/sohamw03/geminimeeting" target="_blank"><strong>GeminiMeetings</strong></a> <code>P2P WEBRTC Video Call</code>
+    <a href="https://geminimeetings.vercel.app" target="_blank">Live</a>
     </td>
   </tr>
   </tbody>
@@ -41,7 +50,7 @@ I use [<b>`Neovim`</b>](https://github.com/sohamw03/neovim) BTW
   <tbody>
   <tr>
     <td>
-      <a href="https://ieeexplore.ieee.org/document/10675259"><strong>Next Word Prediction: A Comprehensive Review</strong></a> <code>IEEE</code>
+      <a href="https://ieeexplore.ieee.org/document/10675259" target="_blank"><strong>Next Word Prediction: A Comprehensive Review</strong></a> <code>IEEE</code>
     </td>
   </tr>
   </tbody>
@@ -65,11 +74,6 @@ I'm always eager to learn new things. Currently exploring . . .
 
 - **Agentic AI** | **Deep Learning**
 
-## 📫 Contact
-
-You can reach me via email at sohamwaghmare2021@gmail.com. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/soham-waghmare) as well.
-
-
 ## 📊 GitHub Stats
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/../output/github-contribution-grid-snake-dark.svg" />
@@ -88,13 +92,13 @@ You can reach me via email at sohamwaghmare2021@gmail.com. Feel free to connect 
   <tbody>
     <tr>
       <td>
-        <a href="https://sohamw03.github.io/"><b>Website</b> 🌐</a>
+        <a href="https://sohamw03.github.io/" target="_blank"><b>Website</b> 🌐</a>
       </td>
       <td>
-        <a href="https://www.linkedin.com/in/soham-waghmare/"><b>LinkedIn</b> 💼</a>
+        <a href="https://www.linkedin.com/in/soham-waghmare/" target="_blank"><b>LinkedIn</b> 💼</a>
       </td>
       <td>
-        <a href="https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06"><b>YouTube</b> ▶️</a>
+        <a href="https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06" target="_blank"><b>YouTube</b> ▶️</a>
       </td>
       <td>
         <a href="https://twitter.com/_SohamWaghmare_"><b>Twitter</b> 🐦</a>
