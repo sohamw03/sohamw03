@@ -38,7 +38,7 @@ I use [<b>`Neovim`</b>](https://github.com/sohamw03/neovim) BTW
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/sohamw03/geminimeeting" target="_blank"><strong>GeminiMeetings</strong></a> <code>P2P WEBRTC Video Call</code>
+    <a href="https://github.com/sohamw03/geminimeetings" target="_blank"><strong>GeminiMeetings</strong></a> <code>P2P WEBRTC Video Call</code>
     <a href="https://geminimeetings.vercel.app" target="_blank">Live</a>
     </td>
   </tr>
