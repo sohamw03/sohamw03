@@ -36,6 +36,17 @@ I use [<b>`Neovim`</b>](https://github.com/sohamw03/neovim) BTW
   </tbody>
 </table>
 
+## Publications
+<table>
+  <tbody>
+  <tr>
+    <td>
+      <a href="https://ieeexplore.ieee.org/document/10675259"><strong>Next Word Prediction: A Comprehensive Review</strong></a> <code>IEEE</code>
+    </td>
+  </tr>
+  </tbody>
+</table>
+
 ## 🔧 Technologies & Tools
 
 Here are some of the technologies and tools I work with:
