@@ -98,7 +98,7 @@ I'm always eager to learn new things. Currently exploring . . .
         <a href="https://www.linkedin.com/in/soham-waghmare/" target="_blank"><b>LinkedIn</b> 💼</a>
       </td>
       <td>
-        <a href="https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06" target="_blank"><b>YouTube</b> ▶️</a>
+        <a href="https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06" target="_blank"><b>YouTube</b> 🔴</a>
       </td>
       <td>
         <a href="https://twitter.com/_SohamWaghmare_"><b>Twitter</b> 🐦</a>
