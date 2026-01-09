@@ -42,6 +42,11 @@ I use [<b>`Neovim`</b>](https://github.com/sohamw03/neovim) BTW
     <a href="https://geminimeetings.vercel.app" target="_blank">Live</a>
     </td>
   </tr>
+  <tr>
+    <td style="vertical-align: middle;">
+    <a href="https://github.com/sohamw03/wifui" target="_blank"><strong>WifUI</strong></a> <code>Native WiFi manager TUI for Windows</code> <img align="center" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sohamw03/wifui">
+    </td>
+  </tr>
   </tbody>
 </table>
 
