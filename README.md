@@ -92,7 +92,7 @@ I'm always eager to learn new things. Currently exploring . . .
   <tbody>
     <tr>
       <td>
-        <a href="https://sohamw03.github.io/" target="_blank"><b>Website</b> <img align="center" width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/407357a3-70cf-4a21-bb99-f8d9e577a162" />
+        <a href="https://sohamw.vercel.app/" target="_blank"><b>Website</b> <img align="center" width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/407357a3-70cf-4a21-bb99-f8d9e577a162" />
 </a>
       </td>
       <td>
@@ -100,7 +100,7 @@ I'm always eager to learn new things. Currently exploring . . .
         </a>
       </td>
       <td>
-        <a href="https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06" target="_blank"><b>YouTube</b> 
+        <a href="https://youtube.com/@sohamwaghmare" target="_blank"><b>YouTube</b> 
           <img align="center" width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/34689096-d28f-4b6a-8985-61d83fc73de1" />
         </a>
       </td>
