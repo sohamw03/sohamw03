@@ -1,11 +1,9 @@
-
-# Greetings! I'm Soham, here's everything you need to know about me...
-I use [<b>`Neovim`</b>](https://github.com/sohamw03/neovim) BTW
+[<b>`Neovim BTW`</b>](https://github.com/sohamw03/neovim)
 
 ## Open Source Contributions
 - **[docling-project/docling-core](https://github.com/docling-project/docling)** - Contributed to [bugfix](https://github.com/docling-project/docling-core/pull/210), fixing AI document conversion from csv to md.
 
-## 📖 Projects
+## Projects
 <table>
   <tbody>
   <tr>
@@ -73,7 +71,7 @@ Here are some of the technologies and tools I work with:
 - **Collaboration**: GitHub, Slack, Discord
 - **Editors**: NeoVim, Zed, GColab, Jupyter
 
-## 🌱 Currently Learning
+## Currently Learning
 
 I'm always eager to learn new things. Currently exploring . . .
 
@@ -97,16 +95,21 @@ I'm always eager to learn new things. Currently exploring . . .
   <tbody>
     <tr>
       <td>
-        <a href="https://sohamw03.github.io/" target="_blank"><b>Website</b> 🌐</a>
+        <a href="https://sohamw03.github.io/" target="_blank"><b>Website</b> <img align="center" width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/407357a3-70cf-4a21-bb99-f8d9e577a162" />
+</a>
       </td>
       <td>
-        <a href="https://www.linkedin.com/in/soham-waghmare/" target="_blank"><b>LinkedIn</b> 💼</a>
+        <a href="https://www.linkedin.com/in/soham-waghmare/" target="_blank"><b>LinkedIn</b> <img align="center" width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/04fb3ff1-3367-4828-bf99-52e7e88d1b61" />
+        </a>
       </td>
       <td>
-        <a href="https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06" target="_blank"><b>YouTube</b> 🔴</a>
+        <a href="https://youtube.com/@sohamwaghmare?si=97Xf61kJmUlueU06" target="_blank"><b>YouTube</b> 
+          <img align="center" width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/34689096-d28f-4b6a-8985-61d83fc73de1" />
+        </a>
       </td>
       <td>
-        <a href="https://twitter.com/_SohamWaghmare_"><b>Twitter</b> 🐦</a>
+        <a href="https://twitter.com/_SohamWaghmare_"><b>Twitter (X)</b> <img align="center" width="22" height="22" alt="image" src="https://github.com/user-attachments/assets/a133ca37-48c2-4462-9180-7fb1324531e1" />
+        </a>
       </td>
     </tr>
   </tbody>
