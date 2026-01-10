@@ -87,19 +87,6 @@ I'm always eager to learn new things. Currently exploring . . .
 
 - **Agentic AI** | **Deep Learning**
 
-## 📊 GitHub Stats
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/../output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="/../output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="/../output/github-contribution-grid-snake.svg"/>
-</picture>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohamw03&theme=dark&show_icons=true&hide_border=true&count_private=true&card_width=1000)
-![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sohamw03&theme=dark&show_icons=true&hide_border=true&card_width=1000)
-
-## Holopin Badges
-[![An image of @sohamw03's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sohamw03)](https://holopin.io/@sohamw03)
-
 ## 🌐 Find Me Online
 <table>
   <tbody>
