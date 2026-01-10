@@ -30,8 +30,13 @@
   </tr>
   <tr>
     <td>
-    <a href="https://github.com/sohamw03/function-calling-flights" target="_blank"><strong>FlightAgent</strong></a> <code>Chatbot that facilitates flight searches and bookings</code>
-    <a href="https://mf2b7odna5.ufs.sh/f/1bDUZFytIqU3WLrWvpomyKG0erIXHpogBUw4C32dSAa76vcu" target="_blank">Vid</a>
+    <details>
+      <summary>
+      <a href="https://github.com/sohamw03/function-calling-flights" target="_blank"><strong>FlightAgent</strong></a> <code>Chatbot that facilitates flight searches and bookings</code>
+    <a href="https://mf2b7odna5.ufs.sh/f/1bDUZFytIqU3WLrWvpomyKG0erIXHpogBUw4C32dSAa76vcu" target="_blank">Demo</a>
+      </summary> <br/>
+      <video src="https://github.com/user-attachments/assets/51b5ff35-d7ad-48db-9971-450e79ab8cb7" width="600"></video>
+    </details>
     </td>
   </tr>
   <tr>
@@ -42,7 +47,12 @@
   </tr>
   <tr>
     <td style="vertical-align: middle;">
+      <details>
+        <summary>
     <a href="https://github.com/sohamw03/wifui" target="_blank"><strong>WifUI</strong></a> <code>Native WiFi manager TUI for Windows</code> <img align="center" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sohamw03/wifui">
+        </summary> <br/>
+        <img width="600" src="https://github.com/sohamw03/wifui/blob/1ca2d23959dbc25cb083d716ce66c330068abcc9/images/Animation.gif"/>
+      </details>
     </td>
   </tr>
   </tbody>
